@@ -3,7 +3,7 @@ public class ParityBit {
 
 	public static void main(String[] args) {
 
-		int wert = 0x17;
+		int wert = 0x1789;
 		int Pruefbit = wert & 0x1;
 
 		wert = wert >> 1;
