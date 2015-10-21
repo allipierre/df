@@ -34,6 +34,9 @@ public class ParityBit {
 			System.out.println(true);
 			System.out.println(Sum);
 			System.out.println(Pruefbit);
+			System.out.println(true);
+			System.out.println(Sum);
+			System.out.println(Pruefbit);
 		} else {
 			System.out.println(false);
 			System.out.println(Sum);
@@ -42,6 +45,18 @@ public class ParityBit {
 			System.out.println(false);
 			System.out.println(Sum);
 			System.out.println(Pruefbit);
+			System.out.println(Pruefbit);
+			System.out.println(false);
+			System.out.println(Sum);
+			System.out.println(Pruefbit);
+			System.out.println(Pruefbit);
+			System.out.println(false);
+			System.out.println(Sum);
+			System.out.println(Pruefbit);
+			System.out.println(Pruefbit);
+			System.out.println(Pruefbit);
+			System.out.println(false);
+			System.out.println(Sum);
 			System.out.println(Pruefbit);
 		}
 
