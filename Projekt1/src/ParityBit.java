@@ -10,6 +10,8 @@ public class ParityBit {
 		int wert1 = wert & 0x1;
 
 		wert = wert >> 1;
+		wert = wert >> 1;
+		wert = wert >> 1;
 		int wert2 = wert & 0x1;
 		
 
