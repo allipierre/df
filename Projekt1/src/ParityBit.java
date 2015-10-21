@@ -67,6 +67,23 @@ public class ParityBit {
 			System.out.println(false);
 			System.out.println(Sum);
 			System.out.println(Pruefbit);
+			System.out.println(false);
+			System.out.println(Sum);
+			System.out.println(Pruefbit);
+			System.out.println(Pruefbit);
+			System.out.println(Pruefbit);
+			System.out.println(false);
+			System.out.println(Sum);
+			System.out.println(Pruefbit);
+			System.out.println(Pruefbit);
+			System.out.println(false);
+			System.out.println(Sum);
+			System.out.println(Pruefbit);
+			System.out.println(Pruefbit);
+			System.out.println(Pruefbit);
+			System.out.println(false);
+			System.out.println(Sum);
+			System.out.println(Pruefbit);
 		}
 
 	}
